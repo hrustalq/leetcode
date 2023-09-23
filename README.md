@@ -4,6 +4,11 @@
 
 ## Описание коммитов:
 
-- RT - Runtime (ms)
-- Mem - Memory (MB)
-- B - Beats (%)
+- **RT** - Runtime (*ms*)
+- **Mem** - Memory (*MB*)
+- **B** - Beats (*%*)
+
+## Текущие цели:
+
+- [Top 150 Interview](https://leetcode.com/studyplan/top-interview-150)  
+  - Jump Game ✅
