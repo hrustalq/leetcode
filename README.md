@@ -13,3 +13,4 @@
 - [Top 150 Interview](https://leetcode.com/studyplan/top-interview-150)  
   - Jump Game ✅
   - Isomorphic Strings ✅
+  - Two Sum ✅
