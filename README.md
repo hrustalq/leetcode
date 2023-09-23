@@ -14,3 +14,4 @@
   - Jump Game ✅
   - Isomorphic Strings ✅
   - Two Sum ✅
+  - Valid Anagram ✅
