@@ -15,3 +15,4 @@
   - Isomorphic Strings ✅
   - Two Sum ✅
   - Valid Anagram ✅
+  - Merge Sorted Array ✅
