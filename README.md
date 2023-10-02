@@ -16,3 +16,4 @@
   - Two Sum ✅
   - Valid Anagram ✅
   - Merge Sorted Array ✅
+  - Remove Element ✅
