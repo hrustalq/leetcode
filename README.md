@@ -7,6 +7,7 @@
 - **RT** - Runtime (*ms*)
 - **Mem** - Memory (*MB*)
 - **B** - Beats (*%*)
+- **O(n)** - Complexity, **O(n)** - Memory
 
 ## Текущие цели:
 
@@ -21,4 +22,4 @@
   - Majority Element ✅
   - Remove Duplicates from Sorted Array II ✅
 - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
-  - Keys and Rooms ✅
+  - Keys and Rooms ✅ - O(n), O(n);
