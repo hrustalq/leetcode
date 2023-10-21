@@ -1,2 +1,11 @@
+# IDE .config files
+.idea
+.vscode
+
+# environment
+.env
+node_modules
+
+
 test.js
 test.ts
