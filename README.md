@@ -20,3 +20,5 @@
   - Remove Duplicates from Sorted Array ✅
   - Majority Element ✅
   - Remove Duplicates from Sorted Array II ✅
+- [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+  - Keys and Rooms ✅
