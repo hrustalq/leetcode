@@ -23,3 +23,4 @@
   - Remove Duplicates from Sorted Array II ✅
 - [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
   - Keys and Rooms ✅ - O(n), O(n);
+  - Valid Palindrome ✅ - O(n), O(n);
